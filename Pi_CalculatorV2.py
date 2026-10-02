@@ -2,8 +2,8 @@ import random as rand
 inSqr = 0
 inCir = 0
 piEstimate = 0
-c = int(input("Enter the radius of circle: "))
-d = int(input("Enter the amount of points to plot: ")) 
+c = int(input("Enter the radius of circle:\n"))
+d = int(input("Enter the amount of points to plot:\n")) 
 
 def plot(a , b):
     linSqr = 0
